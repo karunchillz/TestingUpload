@@ -3,6 +3,9 @@
     "description" : "TestingUpload",
     "dependencies": {
     },
+ 	"scripts": {
+		"start": "node app.js"
+	},   
     "engines" : {
         "node" : "*"
     }
