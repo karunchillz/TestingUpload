@@ -1,0 +1,9 @@
+{
+    "name": "TestingUpload",
+    "description" : "TestingUpload",
+    "dependencies": {
+    },
+    "engines" : {
+        "node" : "*"
+    }
+}
